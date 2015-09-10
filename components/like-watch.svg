@@ -134,8 +134,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="461.46862"
-     inkscape:cy="265.90771"
+     inkscape:cx="380.93968"
+     inkscape:cy="185.31821"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -159,7 +159,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -168,6 +168,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-46.344437,-4.1663361)">
+    <g
+       id="g17811"
+       style="fill:#555555;stroke:#000000"
+       transform="matrix(0.46293913,0,0,0.46293913,761.13434,-44.173357)">
+      <title
+         id="title17813">Keyboard Alt</title>
+      <path
+         inkscape:connector-curvature="0"
+         id="path17815"
+         d="M 11.421958,160.36266 A 20.178412,20.178412 0 0 0 -8.7533464,180.54178 20.178412,20.178412 0 0 0 11.421958,200.7209 20.178412,20.178412 0 0 0 31.601074,180.54178 20.178412,20.178412 0 0 0 11.421958,160.36266 Z m -6.9969498,12.02363 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -3.00305,-1.33924 -3.00305,-2.99924 0,-1.66 1.34305,-2.99924 3.00305,-2.99924 z m 13.9977128,0 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -2.999239,-1.33924 -2.999239,-2.99924 0,-1.66 1.339239,-2.99924 2.999239,-2.99924 z m -18.30030385,12.00076 22.60289485,0 c -1.65,4.66 -6.083354,7.99924 -11.303354,7.99924 -5.2199998,0 -9.6495428,-3.33924 -11.29954085,-7.99924 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.51219511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
     <rect
        y="84.292862"
        x="69.450279"
@@ -229,18 +241,6 @@
        width="38"
        id="rect32212"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e3e3e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.87546057;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <g
-       id="use21511"
-       style="fill:#555555;stroke:#000000"
-       transform="matrix(0.5125,0,0,0.5125,75.872894,43.378836)">
-      <title
-         id="title25277">Keyboard Alt</title>
-      <path
-         id="path25279"
-         style="stroke:none"
-         d="m 31,21 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m -14,0 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m 7,14 c 5.22,0 9.65,-3.34 11.3,-8 l -22.6,0 c 1.65,4.66 6.08,8 11.3,8 z M 23.99,3 C 12.94,3 4,11.95 4,23 4,34.05 12.94,43 23.99,43 35.04,43 44,34.05 44,23 44,11.95 35.04,3 23.99,3 Z M 24,39 C 15.16,39 8,31.84 8,23 8,14.16 15.16,7 24,7 c 8.84,0 16,7.16 16,16 0,8.84 -7.16,16 -16,16 z"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        sodipodi:linespacing="125%"
        id="text32216"
@@ -314,18 +314,6 @@
        height="38"
        x="66.344437"
        y="146.4958" />
-    <g
-       id="use25105"
-       style="fill:#555555;stroke:#000000"
-       transform="matrix(0.5125,0,0,0.5125,73.044463,153.70831)">
-      <title
-         id="title25265">Keyboard Alt</title>
-      <path
-         id="path25267"
-         style="stroke:none"
-         d="m 31,21 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m -14,0 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m 7,14 c 5.22,0 9.65,-3.34 11.3,-8 l -22.6,0 c 1.65,4.66 6.08,8 11.3,8 z M 23.99,3 C 12.94,3 4,11.95 4,23 4,34.05 12.94,43 23.99,43 35.04,43 44,34.05 44,23 44,11.95 35.04,3 23.99,3 Z M 24,39 C 15.16,39 8,31.84 8,23 8,14.16 15.16,7 24,7 c 8.84,0 16,7.16 16,16 0,8.84 -7.16,16 -16,16 z"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato Light';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -552,18 +540,6 @@
          x="617.56165"
          y="172.66685"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555555">100</tspan></text>
-    <g
-       id="use25227"
-       style="fill:#555555;stroke:#000000"
-       transform="matrix(0.5125,0,0,0.5125,754.04446,28.23374)">
-      <title
-         id="title25295">Keyboard Alt</title>
-      <path
-         id="path25297"
-         style="stroke:none"
-         d="m 31,21 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m -14,0 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m 7,14 c 5.22,0 9.65,-3.34 11.3,-8 l -22.6,0 c 1.65,4.66 6.08,8 11.3,8 z M 23.99,3 C 12.94,3 4,11.95 4,23 4,34.05 12.94,43 23.99,43 35.04,43 44,34.05 44,23 44,11.95 35.04,3 23.99,3 Z M 24,39 C 15.16,39 8,31.84 8,23 8,14.16 15.16,7 24,7 c 8.84,0 16,7.16 16,16 0,8.84 -7.16,16 -16,16 z"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;"
@@ -613,27 +589,27 @@
          id="path25309" />
     </g>
     <g
-       transform="matrix(0.5125,0,0,0.5125,414.45571,31.378836)"
+       id="g17793"
        style="fill:#ffffff;stroke:#000000"
-       id="g25311">
+       transform="matrix(0.5125,0,0,0.5125,421.06816,-49.246164)">
       <title
-         id="title25313">Keyboard Alt</title>
+         id="title17795">Keyboard Alt</title>
       <path
          inkscape:connector-curvature="0"
-         d="m 31,21 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m -14,0 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m 7,14 c 5.22,0 9.65,-3.34 11.3,-8 l -22.6,0 c 1.65,4.66 6.08,8 11.3,8 z M 23.99,3 C 12.94,3 4,11.95 4,23 4,34.05 12.94,43 23.99,43 35.04,43 44,34.05 44,23 44,11.95 35.04,3 23.99,3 Z M 24,39 C 15.16,39 8,31.84 8,23 8,14.16 15.16,7 24,7 c 8.84,0 16,7.16 16,16 0,8.84 -7.16,16 -16,16 z"
-         style="fill:#ffffff;stroke:none"
-         id="path25315" />
+         id="path17797"
+         d="M 11.421958,160.36266 A 20.178412,20.178412 0 0 0 -8.7533464,180.54178 20.178412,20.178412 0 0 0 11.421958,200.7209 20.178412,20.178412 0 0 0 31.601074,180.54178 20.178412,20.178412 0 0 0 11.421958,160.36266 Z m -6.9969498,12.02363 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -3.00305,-1.33924 -3.00305,-2.99924 0,-1.66 1.34305,-2.99924 3.00305,-2.99924 z m 13.9977128,0 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -2.999239,-1.33924 -2.999239,-2.99924 0,-1.66 1.339239,-2.99924 2.999239,-2.99924 z m -18.30030385,12.00076 22.60289485,0 c -1.65,4.66 -6.083354,7.99924 -11.303354,7.99924 -5.2199998,0 -9.6495428,-3.33924 -11.29954085,-7.99924 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.51219511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
-       id="g25317"
+       transform="matrix(0.5125,0,0,0.5125,421.06816,73.083309)"
        style="fill:#ffffff;stroke:#000000"
-       transform="matrix(0.5125,0,0,0.5125,414.45571,153.7083)">
+       id="g17799">
       <title
-         id="title25319">Keyboard Alt</title>
+         id="title17801">Keyboard Alt</title>
       <path
-         id="path25321"
-         style="fill:#ffffff;stroke:none"
-         d="m 31,21 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m -14,0 c 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 z m 7,14 c 5.22,0 9.65,-3.34 11.3,-8 l -22.6,0 c 1.65,4.66 6.08,8 11.3,8 z M 23.99,3 C 12.94,3 4,11.95 4,23 4,34.05 12.94,43 23.99,43 35.04,43 44,34.05 44,23 44,11.95 35.04,3 23.99,3 Z M 24,39 C 15.16,39 8,31.84 8,23 8,14.16 15.16,7 24,7 c 8.84,0 16,7.16 16,16 0,8.84 -7.16,16 -16,16 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.51219511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 11.421958,160.36266 A 20.178412,20.178412 0 0 0 -8.7533464,180.54178 20.178412,20.178412 0 0 0 11.421958,200.7209 20.178412,20.178412 0 0 0 31.601074,180.54178 20.178412,20.178412 0 0 0 11.421958,160.36266 Z m -6.9969498,12.02363 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -3.00305,-1.33924 -3.00305,-2.99924 0,-1.66 1.34305,-2.99924 3.00305,-2.99924 z m 13.9977128,0 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -2.999239,-1.33924 -2.999239,-2.99924 0,-1.66 1.339239,-2.99924 2.999239,-2.99924 z m -18.30030385,12.00076 22.60289485,0 c -1.65,4.66 -6.083354,7.99924 -11.303354,7.99924 -5.2199998,0 -9.6495428,-3.33924 -11.29954085,-7.99924 z"
+         id="path17803"
          inkscape:connector-curvature="0" />
     </g>
     <rect
@@ -747,7 +723,7 @@
            height="20.5"
            x="-54.5"
            y="336" /></flowRegion><flowPara
-         id="flowPara25377"></flowPara></flowRoot>    <use
+         id="flowPara25377" /></flowRoot>    <use
        id="use25434"
        style="fill:#9dce0a;stroke:#000000"
        xlink:href="#symbol13744"
@@ -756,5 +732,29 @@
        y="0"
        width="100%"
        height="100%" />
+    <g
+       transform="matrix(0.5125,0,0,0.5125,82.31816,-37.496164)"
+       style="fill:#555555;stroke:#000000"
+       id="g17784">
+      <title
+         id="title17786">Keyboard Alt</title>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.51219511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 11.421958,160.36266 A 20.178412,20.178412 0 0 0 -8.7533464,180.54178 20.178412,20.178412 0 0 0 11.421958,200.7209 20.178412,20.178412 0 0 0 31.601074,180.54178 20.178412,20.178412 0 0 0 11.421958,160.36266 Z m -6.9969498,12.02363 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -3.00305,-1.33924 -3.00305,-2.99924 0,-1.66 1.34305,-2.99924 3.00305,-2.99924 z m 13.9977128,0 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -2.999239,-1.33924 -2.999239,-2.99924 0,-1.66 1.339239,-2.99924 2.999239,-2.99924 z m -18.30030385,12.00076 22.60289485,0 c -1.65,4.66 -6.083354,7.99924 -11.303354,7.99924 -5.2199998,0 -9.6495428,-3.33924 -11.29954085,-7.99924 z"
+         id="path17790"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g17805"
+       style="fill:#555555;stroke:#000000"
+       transform="matrix(0.5125,0,0,0.5125,79.489706,72.968142)">
+      <title
+         id="title17807">Keyboard Alt</title>
+      <path
+         inkscape:connector-curvature="0"
+         id="path17809"
+         d="M 11.421958,160.36266 A 20.178412,20.178412 0 0 0 -8.7533464,180.54178 20.178412,20.178412 0 0 0 11.421958,200.7209 20.178412,20.178412 0 0 0 31.601074,180.54178 20.178412,20.178412 0 0 0 11.421958,160.36266 Z m -6.9969498,12.02363 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -3.00305,-1.33924 -3.00305,-2.99924 0,-1.66 1.34305,-2.99924 3.00305,-2.99924 z m 13.9977128,0 c 1.66,0 2.999237,1.33924 2.999237,2.99924 0,1.66 -1.339237,2.99924 -2.999237,2.99924 -1.66,0 -2.999239,-1.33924 -2.999239,-2.99924 0,-1.66 1.339239,-2.99924 2.999239,-2.99924 z m -18.30030385,12.00076 22.60289485,0 c -1.65,4.66 -6.083354,7.99924 -11.303354,7.99924 -5.2199998,0 -9.6495428,-3.33924 -11.29954085,-7.99924 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.51219511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
