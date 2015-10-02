@@ -18,7 +18,47 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="upvote-tickets.svg">
   <defs
-     id="defs51038" />
+     id="defs51038">
+    <symbol
+       id="angle-double-up"
+       class="Directional-Icons">
+      <title
+         id="title12084">Angle Double Up</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1075 224q0 -13 -10 -23l-50 -50q-10 -10 -23 -10t-23 10l-393 393l-393 -393q-10 -10 -23 -10t-23 10l-50 50q-10 10 -10 23t10 23l466 466q10 10 23 10t23 -10l466 -466q10 -10 10 -23zM1075 608q0 -13 -10 -23l-50 -50q-10 -10 -23 -10t-23 10l-393 393l-393 -393 q-10 -10 -23 -10t-23 10l-50 50q-10 10 -10 23t10 23l466 466q10 10 23 10t23 -10l466 -466q10 -10 10 -23z"
+         id="path12086" />
+    </symbol>
+    <symbol
+       id="caret-up"
+       class="Directional-Icons">
+      <title
+         id="title11889">Caret Up</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1024 320q0 -26 -19 -45t-45 -19h-896q-26 0 -45 19t-19 45t19 45l448 448q19 19 45 19t45 -19l448 -448q19 -19 19 -45z"
+         id="path11891" />
+    </symbol>
+    <symbol
+       id="forward"
+       class="Video-Player-Icons">
+      <title
+         id="title11304">forward</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M45 -115q-19 -19 -32 -13t-13 32v1472q0 26 13 32t32 -13l710 -710q8 -8 13 -19v710q0 26 13 32t32 -13l710 -710q19 -19 19 -45t-19 -45l-710 -710q-19 -19 -32 -13t-13 32v710q-5 -10 -13 -19z"
+         id="path11306" />
+    </symbol>
+    <symbol
+       id="symbol8162">
+      <title
+         id="title8164">Keyboard Arrow Up</title>
+      <path
+         d="M14.83 30.83l9.17-9.17 9.17 9.17 2.83-2.83-12-12-12 12z"
+         style="stroke:none"
+         id="path8166" />
+    </symbol>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72409392"
-     inkscape:cx="220.62331"
-     inkscape:cy="767.8435"
+     inkscape:zoom="1.1285683"
+     inkscape:cx="141.86708"
+     inkscape:cy="570.70591"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,11 +76,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1678"
-     inkscape:window-height="984"
-     inkscape:window-x="1920"
+     inkscape:window-width="1918"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata51041">
     <rdf:RDF>
@@ -491,7 +532,7 @@
          id="flowPara33418">12</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:#444444;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect34619"
-       width="304.58344"
+       width="302.81128"
        height="43.406681"
        x="25.146179"
        y="722.22424" />
@@ -666,17 +707,28 @@
        x="417.89035"
        y="3.7509704" />
     <g
-       transform="matrix(0,-4.3706642,4.3706642,0,-317.63607,863.68211)"
-       style="fill:#555555;stroke:#000000"
-       id="g65723">
-      <title
-         id="title65725">Forward</title>
+       id="g26108"
+       transform="matrix(0.46153845,0,0,0.46153845,210.91669,391.75157)">
       <path
+         style="fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -365.83695,666.80208 27.94752,0 -14.08867,-22.48575 z"
+         id="path26106"
          inkscape:connector-curvature="0"
-         d="m 38.624983,83.242579 0,-0.718896 L 40,83.773149 l -1.375017,1.249467 0,-0.718896 -1.375015,0 0,-1.061141 z"
-         style="fill:#555555;stroke:none"
-         id="path65727"
-         sodipodi:nodetypes="cccccccc" />
+         sodipodi:nodetypes="cccc" />
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42899999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect32873"
+         width="52.943649"
+         height="65.161415"
+         x="-372.12866"
+         y="342.06204" />
     </g>
+    <rect
+       y="912.7229"
+       x="33.68454"
+       height="46.950996"
+       width="50.736431"
+       id="rect32875"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:#444444;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
 </svg>
