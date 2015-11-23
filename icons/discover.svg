@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="discover.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="90.721604"
+     inkscape:cy="166.49755"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="200.71429,121.42857"
+       orientation="1,0"
+       id="guide23298" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36216)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.99999809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 200,652.36212 c -110.308898,0 -200.0000015,89.6911 -200.0000015,200 0,110.30887 89.6911035,200.00008 200.0000015,200.00008 110.3089,0 200,-89.69121 200,-200.00008 0,-110.3089 -89.6911,-200 -200,-200 z m 0,25 c 19.9141,0 39.0365,3.31731 56.8574,9.418 6.2126,52.1386 -16.3286,52.92291 -37.6582,95.582 -80.3081,160.61617 107.9591,21.6347 118.5704,42.8574 32.1641,64.32821 -42.0639,102.05137 -6.7891,143.29888 -14.5614,16.4138 -32.1621,30.065 -51.9375,40.0704 -33.2941,-29.2893 -56.2731,-29.3434 -70.4844,18.5644 -2.8362,0.136 -5.6881,0.209 -8.5586,0.209 -20.9363,0 -41.0003,-3.6633 -59.5937,-10.3769 32.4331,-30.3705 4.6797,-128.56247 -19.7793,-177.48057 -13.887,-27.7739 55.5105,-106.1216 37.1426,-142.8574 -3.3727,-6.7452 -9.3329,-9.383 -16.9161,-9.0625 18.4683,-6.6117 38.3772,-10.2227 59.1465,-10.2227 z M 29.666001,812.00472 c 23.1588,39.0857 82.922399,77.53061 15.2461,117.49997 -0.4809,0.5246 -0.8804,1.09811 -1.2402,1.6934 -11.9418,-23.68047 -18.6719,-50.45647 -18.6719,-78.83597 0,-13.8958 1.619201,-27.4043 4.666,-40.3574 z"
+       id="discover"
+       inkscape:connector-curvature="0">
+      <title
+         id="title23696">discover</title>
+    </path>
+  </g>
+</svg>
