@@ -1,0 +1,10 @@
+<svg id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" sodipodi:docname="lock.svg" height="400" width="400" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" viewBox="0 0 400 400.00001" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:guide-bbox="true" pagecolor="#ffffff" inkscape:window-height="1056" inkscape:window-maximized="1" inkscape:zoom="1.4" inkscape:window-x="0" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="90.721604" inkscape:cy="166.78501" showguides="true" inkscape:window-y="24" units="px" inkscape:window-width="1920" inkscape:pageopacity="0.0" inkscape:document-units="px">
+  <sodipodi:guide id="guide23298" position="200.71429,121.42857" orientation="1,0"/>
+ </sodipodi:namedview>
+ <g id="layer1" inkscape:label="Capa 1" inkscape:groupmode="layer" transform="translate(0 -652.36)">
+  <path id="lock" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m167.02 652.36c-58.393 0-105.79 47.501-105.79 106.02v46.734h-61.23v12.525 234.72h400v-247.25h-61.23v-46.734c0-58.519-47.402-106.02-105.79-106.02h-65.951zm0 25.053h65.951c44.976 0 80.795 35.894 80.795 80.967v46.734h-227.54v-46.734c0-45.072 35.817-80.967 80.793-80.967zm-142.02 152.76h350v197.14h-350v-197.14zm162.5 51.375v89.58h25v-89.58h-25z" inkscape:connector-curvature="0">
+   <title id="title23664">lock</title>
+  </path>
+ </g>
+</svg>
