@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bubble.svg">
+   sodipodi:docname="document.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="314.19101"
-     inkscape:cy="125.12165"
+     inkscape:cx="244.49048"
+     inkscape:cy="180.68004"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,12 @@
      id="layer1"
      transform="translate(0,-652.36216)">
     <path
-       inkscape:connector-curvature="0"
-       id="bubble"
-       d="m 0,652.36214 0,300 68.572301,0 0,100.00006 0.1055,0 25.9472,0 64.636699,-100.00006 240.7383,0 0,-300 -400,0 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 186.418,652.36213 47.5,791.12973 l 0,261.23247 3.9942,0 21.0058,0 280,0 0,-25 0,-375.00007 -166.082,0 z m 14,25 127.082,0 0,350.00007 -255,0 0,-222.23247 127.918,0 0,-127.7676 z m -60.5977,178.2891 0,25 158.6895,0 0,-25 -158.6895,0 z m 69.5938,58 0,25 89.0957,0 0,-25 -89.0957,0 z m -94.0449,57.99996 0,25 183.1406,0 0,-25 -183.1406,0 z"
+       id="document"
+       inkscape:connector-curvature="0">
       <title
-         id="title23448">bubble</title>
+         id="title23432">document</title>
     </path>
   </g>
 </svg>

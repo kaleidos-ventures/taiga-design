@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="314.19101"
-     inkscape:cy="125.12165"
+     inkscape:cx="-29.260858"
+     inkscape:cy="66.532806"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,12 +62,11 @@
      id="layer1"
      transform="translate(0,-652.36216)">
     <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,0 0,300 68.572266,0 0,100 0.105468,0 L 94.625,400 159.26172,300 400,300 400,0 Z m 25,25 350,0 0,250 -226.89579,0.35672 -54.531944,85.49094 0,-60.84766 0.01172,0 0.01563,-25 L 25,275 Z"
+       transform="translate(0,652.36216)"
+       id="rect23285"
        inkscape:connector-curvature="0"
-       id="bubble"
-       d="m 0,652.36214 0,300 68.572301,0 0,100.00006 0.1055,0 25.9472,0 64.636699,-100.00006 240.7383,0 0,-300 -400,0 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
-      <title
-         id="title23448">bubble</title>
-    </path>
+       sodipodi:nodetypes="cccccccccccccccccccc" />
   </g>
 </svg>

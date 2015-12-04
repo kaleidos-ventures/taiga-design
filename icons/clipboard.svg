@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bubble.svg">
+   sodipodi:docname="clipboard.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="314.19101"
-     inkscape:cy="125.12165"
+     inkscape:cx="244.49048"
+     inkscape:cy="180.68004"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,12 @@
      id="layer1"
      transform="translate(0,-652.36216)">
     <path
-       inkscape:connector-curvature="0"
-       id="bubble"
-       d="m 0,652.36214 0,300 68.572301,0 0,100.00006 0.1055,0 25.9472,0 64.636699,-100.00006 240.7383,0 0,-300 -400,0 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 79,652.29185 0,50.4277 -54,0 0,-0.043 -25,0 0,0.043 0,25 0,23 0,25 0,251.71295 0,25 25,0 235,0 23.2148,0 1.7852,0 0,-91.57035 -25,0 0,66.57035 -235,0 0,-251.71295 235,0 0,112.1426 25,0 0,-185.1855 -25,0 0,0.043 -54,0 0,-50.4277 -10.1562,0 -91.8438,0 -23.1523,0 -1.8477,0 z m 25,25 77,0 0,37.6719 0.125,0 0,12.7558 78.875,0 0,23 -235,0 0,-23 79,0 0,-12.7558 0,-12.2442 0,-25.4277 z m -53.5449,128.6797 0,25 183.1406,0 0,-25 -183.1406,0 z m 153.748,47.6797 -53.0332,53.0332 -17.6777,17.6777 17.6777,17.6778 53.0332,53.0332 17.6778,-17.6778 -40.5332,-40.5332 218.6523,0 0,-25 -218.6523,0 40.5332,-40.5332 -17.6778,-17.6777 z m -153.748,10.3203 0,25 89.0957,0 0,-25 -89.0957,0 z m 0,58 0,25 58.6894,0 0,-25 -58.6894,0 z m 0,56 0,25.00005 101.1152,0 0,-25.00005 -101.1152,0 z"
+       id="clipboard"
+       inkscape:connector-curvature="0">
       <title
-         id="title23448">bubble</title>
+         id="title40080">clipboard</title>
     </path>
   </g>
 </svg>

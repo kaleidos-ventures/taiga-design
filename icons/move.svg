@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bubble.svg">
+   sodipodi:docname="move.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="314.19101"
-     inkscape:cy="125.12165"
+     inkscape:cx="244.49048"
+     inkscape:cy="180.68004"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,13 @@
      id="layer1"
      transform="translate(0,-652.36216)">
     <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 310.1582,698.52035 -17.6778,17.67781 59.6641,59.664 -352.1445,0 0,25 352.1445,0 -59.6641,59.66409 17.6778,17.6777 L 400,788.36215 Z m -220.3164,128 L 0,916.36215 l 89.8418,89.84185 17.6777,-17.67774 -59.6641,-59.66411 352.1446,0 0,-25 -352.1446,0 59.6641,-59.664 z"
+       id="move"
        inkscape:connector-curvature="0"
-       id="bubble"
-       d="m 0,652.36214 0,300 68.572301,0 0,100.00006 0.1055,0 25.9472,0 64.636699,-100.00006 240.7383,0 0,-300 -400,0 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+       sodipodi:nodetypes="cccccccccccccccccccc">
       <title
-         id="title23448">bubble</title>
+         id="title23513">move</title>
     </path>
   </g>
 </svg>
