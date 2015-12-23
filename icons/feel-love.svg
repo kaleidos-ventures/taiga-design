@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="feel-love.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="313.96294"
+     inkscape:cy="815.85199"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="200.71429,121.42857"
+       orientation="1,0"
+       id="guide23298" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36216)">
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 300.00391 0.013671875 C 238.70567 1.2705972 201.1011 89.093675 200.39648 90.751953 C 199.68468 89.076753 161.01961 -1.2275094 98.132812 0.025390625 C 86.378314 0.25949063 73.779434 3.6961782 60.427734 11.517578 C -43.196266 72.220978 -24.024539 243.85083 200.31445 399.90625 L 200.31445 400 C 200.34145 399.984 200.36653 399.96717 200.39453 399.95117 C 200.42153 399.96717 200.44761 399.984 200.47461 400 L 200.47461 399.90625 C 421.79321 253.95233 443.98738 72.220978 340.36328 11.517578 C 327.11628 3.7574782 314.61205 0.30823125 302.93945 0.01953125 C 301.95458 -0.0048296875 300.97689 -0.0062793201 300.00391 0.013671875 z M 142.26172 156.26953 L 160.21875 173.66211 L 120.56055 214.60938 L 160.21875 255.55469 L 142.26172 272.94922 L 85.78125 214.60742 L 142.26172 156.26953 z M 257.73828 156.26953 L 314.21875 214.60742 L 257.73828 272.94922 L 239.78125 255.55469 L 279.43945 214.60938 L 239.78125 173.66211 L 257.73828 156.26953 z M 210.01758 158.1875 L 233.0918 167.81445 L 188.0918 275.67188 L 165.01758 266.04492 L 210.01758 158.1875 z "
+       transform="translate(0,652.36216)"
+       id="path23532" />
+  </g>
+</svg>
