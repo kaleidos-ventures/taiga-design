@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="470"
+   height="350"
+   viewBox="0 0 470 350.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="add-user.svg">
+  <defs
+     id="defs4">
+    <symbol
+       id="symbol225836">
+      <title
+         id="title225838">Person Add</title>
+      <path
+         d="m 30,24 c 4.42,0 8,-3.59 8,-8 0,-4.42 -3.58,-8 -8,-8 -4.42,0 -8,3.58 -8,8 0,4.41 3.58,8 8,8 z m -18,-4 0,-6 -4,0 0,6 -6,0 0,4 6,0 0,6 4,0 0,-6 6,0 0,-4 -6,0 z m 18,8 c -5.33,0 -16,2.67 -16,8 l 0,4 32,0 0,-4 C 46,30.67 35.33,28 30,28 Z"
+         style="stroke:none"
+         id="path225840"
+         inkscape:connector-curvature="0" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2526544"
+     inkscape:cx="241.33671"
+     inkscape:cy="172.9395"
+     inkscape:document-units="px"
+     inkscape:current-layer="use237976"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1918"
+     inkscape:window-height="1060"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="197.94218,119.15177"
+       orientation="1,0"
+       id="guide23298" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.7721056,-700.08534)">
+    <g
+       id="use237976"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(8.9649043,0,0,8.9649043,-15.157703,637.20446)">
+      <title
+         id="title237992">Person Add</title>
+      <path
+         id="path237994"
+         style="stroke:none"
+         d="m 35.348691,26.534681 c 5.256381,0 9.513811,-4.269323 9.513811,-9.513812 0,-5.256382 -4.25743,-9.513812 -9.513811,-9.513812 -5.256382,0 -9.513812,4.25743 -9.513812,9.513812 0,5.244489 4.25743,9.513812 9.513812,9.513812 z m -21.406078,-4.756906 0,-7.135359 -4.7569063,0 0,7.135359 -7.1353591,0 0,4.756906 7.1353591,0 0,7.13536 4.7569063,0 0,-7.13536 7.135359,0 0,-4.756906 -7.135359,0 z m 21.406078,9.513813 c -6.338577,0 -19.027625,3.175235 -19.027625,9.513812 l 0,4.756906 38.055248,0 0,-4.756906 c 0,-6.338577 -12.689046,-9.513812 -19.027623,-9.513812 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
