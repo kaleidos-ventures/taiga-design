@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="90.721604"
-     inkscape:cy="166.49755"
+     inkscape:zoom="1.6509997"
+     inkscape:cx="165.7984"
+     inkscape:cy="188.83786"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="1863"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1977"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,8 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36216)">
+     transform="translate(0,-652.36216)"
+     style="display:none">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -6.9999998e-7,652.36217 0,400.00003 L 400,1052.3622 l 0,-400.00003 -375,0 z M 25,677.36217 l 162.5,0 0,350.00003 -162.5,0 z m 187.5,0 162.5,0 0,98.5 -162.5,0 z m 0,123.5 162.5,0 0,107 -162.5,0 z m 0,132 162.5,0 0,94.50003 -162.5,0 z"
@@ -70,5 +71,16 @@
       <title
          id="title23588">backlog</title>
     </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#107a8a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 80.037999,2.2511003 0,11.5197067 0,29.393837 -40.019,0 0,11.519706 0,28.499293 -40.018999,0 0,11.519707 0,303.04555 319.96199,0 0,-40.01899 40.01901,0 0,-40.019 40.019,0 0,-315.4598097 z m 23.039411,23.0394137 273.88317,0 0,269.380976 -273.88317,0 z m -40.018997,40.913543 16.979586,0 0,251.506853 256.903581,0 0,16.97959 -273.883167,0 z m -40.019001,40.019013 16.979587,0 0,251.50684 256.903581,0 0,16.97958 -273.883168,0 z"
+       id="rect16686"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>
