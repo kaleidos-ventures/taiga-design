@@ -1,0 +1,63 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-title>{{ _("Taiga") }}</mj-title>
+            <mj-all font-family="Sans" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-container background-color="#F5F5F5">
+            <mj-section padding="10px">
+                <mj-column vertical-align="middle">
+                    <!-- image url {{ static("emails/logo-color.png") }} -->
+                    <mj-image align="center" width="60" src="{{ static('emails/taiga-logo-email.png') }}" alt="Taiga logo" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#fff" padding="10px 10px">
+                <mj-column>
+                    <mj-text font-size="20" color="#6e6e6e" font-weight="bold" padding-bottom="0" align="center">
+                        {% trans %}
+                        You have been Taigatized!
+                        {% endtrans %}
+                    </mj-text>
+                    <mj-text font-size="14" color="#6e6e6e" align="center">
+                        {% trans %}
+                        Welcome to Taiga, an Open Source, Agile Project Management Tool
+                        {% endtrans %}
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-spacer height="8px" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#fff">
+                <mj-column>
+                    <mj-text font-size="16" color="#6e6e6e" font-weight="bold" padding-bottom="0">
+                        Thank you for registering in Taiga, We hope you enjoy it
+                    </mj-text>
+                    <mj-text font-size="14" color="#6e6e6e">
+                        <p>We built Taiga because we wanted the project management tool that sits open on our computers all day long, to serve as a continued reminder of why we love to collaborate, code and design.</p>
+                        <p>We built it to be beautiful, elegant, simple to use and fun - without forsaking flexibility and power.</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center" font-size="9" color="#6e6e6e">
+                        You may remove your account from this service clicking here
+                    </mj-text>
+                    <mj-text align="center" font-size="9" color="#6e6e6e">
+                        <a href="#">taiga Support</a>
+                        <a href="#">Contact us</a>
+                        <a href="#">mailing list</a>
+                    </mj-text>
+                    <mj-text align="center" font-size="9" color="#6e6e6e">
+                        <p>(ɔ) 2017, Taiga Agile, LLC<br>This mail is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-container>
+    </mj-body>
+</mjml>

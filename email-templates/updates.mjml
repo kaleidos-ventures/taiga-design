@@ -1,0 +1,70 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-title>{{ _("You have been Taigatized") }}</mj-title>
+            <mj-all font-family="Sans" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-container background-color="#F5F5F5">
+            <mj-section padding="10px">
+                <mj-column vertical-align="middle">
+                    <!-- image url {{ static("emails/logo-color.png") }} -->
+                    <mj-image align="center" width="30" src="{{ static('emails/taiga-logo-email.png') }}" alt="Taiga logo" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#fff" padding="10px 10px">
+                <mj-column width="80%">
+                    <mj-text font-size="20" color="#6e6e6e" font-weight="bold" padding-bottom="0">
+                        {% block title %}{% endblock %}
+                    </mj-text>
+                    <mj-text font-size="14" color="#6e6e6e">
+                        {% block head %}{% endblock %}
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-spacer height="8px" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#fff">
+                <mj-column>
+                    {% block body %}
+                    <mj-text align="left" font-size="16" color="#6e6e6e" font-weight="bold" padding-bottom="0">
+                        {{ _("Updates") }}
+                    </mj-text>
+                    {% for entry in history_entries%}
+                        {% if entry.comment %}
+                        {% trans comment=mdrender(project, entry.comment) %}
+                        <mj-text align="left" font-size="14" color="#6e6e6e" font-weight="bold" padding-bottom="0">
+                            comment
+                        </mj-text>
+                        <mj-text align="left" font-size="12" color="#6e6e6e" font-weight="bold" padding-bottom="0">
+                            <blockquote>{{ comment }}</blockquote>
+                        </mj-text>
+                        {% endtrans %}
+                        {% endif %}
+                        {% set changed_fields = entry.values_diff %}
+                        {% if changed_fields %}
+                        {% include "emails/includes/fields_diff-html.jinja" %}
+                        {% endif %}
+                    {% endfor %}
+                    {% endblock %}
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text align="center" font-size="9" color="#6e6e6e">
+                        <a href="#">taiga Support</a>
+                        <a href="#">Contact us</a>
+                        <a href="#">mailing list</a>
+                    </mj-text>
+                    <mj-text align="center" font-size="9" color="#6e6e6e">
+                        <p>(ɔ) 2017, Taiga Agile, LLC<br>This mail is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-container>
+    </mj-body>
+</mjml>
